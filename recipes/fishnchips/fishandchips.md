@@ -24,17 +24,16 @@ Eventuellt vinäger
 1. Värm upp oljan till 160 grader celsius.
 1. Fritera en näve pommes, fint att ätan under tiden.
 1. Torka fisken och bada den i mjölet
-1. Knäck äggen, lägg alltihop i en skål
+1. Knäck äggen, lägg alltihop i en skål (spar resterna och gör en omelett av det)
 1. Dra fisken genom ägggen
 1. Vänd fisken i pankon.
 1. Fritera fisken
 1. Fritera pommes
 
-Äte med vinäger och eller den kylda såsen
+Ät med vinäger och eller den kylda såsen
 
 
 ## Tags
 
 * Simple
-
-## Credits
+* yummie
