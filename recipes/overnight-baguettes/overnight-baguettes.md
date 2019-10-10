@@ -7,16 +7,16 @@ Genom att använda lite jäst och låta brödet jäsa långsamt över natten kr�
 # Ingredients
 
 * 3 g färsk jäst eller 2,5 krm torrjäst
-* 350 g (3 1/2 dl) kallt vatem
+* 350 g (3 1/2 dl) kallt vatten
 * 450 g (7 1/2 dl) vetemjöl special
 * 10 g (1 1/2 tsk) salt
 
 # Steps
 
 1. Blanda ingredienser i en bunke. Degen behöver inte knådas utan bara röras till den precis går ihop - för hand eller med maskin.
-1. Täck bunken med plastfolie och jäs över natten, ca 8h.
+1. Täck bunken med plastfolie och låt jäsa över natten, ca 8h.
 1. Sätt ugnen på 250°C.
-1. Skrapa ut degen på ett mjöl bakbord.
+1. Skrapa ut degen på ett mjölat bakbord.
 1. Dra ut degen till en fyrkant.
 1. Vik överkanten mot mitten och sedan underkanten mot mitten.
 1. Vik in kanterna.
