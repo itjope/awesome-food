@@ -2,8 +2,7 @@
 <!--- This is how your .md files should look like --->
 
 <!--- Title, Name of the recipe --->
-Tonfiskpasta
-# [MyAwesomeCourse]
+#Tonfiskpasta
 
 
 <!--- Optional : Picture of the end result of the recipe --->
