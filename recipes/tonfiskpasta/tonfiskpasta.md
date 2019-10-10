@@ -55,7 +55,7 @@ Enkelt men uppskattat av hela familjen.
   4. Fräs löken i en kastrull med lite olja
   5. När löken är mjuk ta av kastrullen från värmen
   6. Blanda i tonfisk med löken
-  7. Blanda i crème fraiche, med tonfisk och löken
+  7. Blanda i crème fraiche, med tonfisken och löken
   8. När pastan har kokat färdig och tonfiskröran är färdigblandad. Servera då tonfiskröran och pastan med tomaterna
   ## Tags
   <!--- Optional tags to users to search for --->
