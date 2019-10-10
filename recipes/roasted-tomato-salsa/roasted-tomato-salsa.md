@@ -8,7 +8,7 @@ Genom att rosta ingredienserna först ger en dip som är håller längre och ger
 
 * 6st färska tomater
 * Salt
-* 1st färsk Jalapeno
+* 1st färsk jalapeño
 * 2st vitlöksklyftor
 * 1st gul lök
 * 1st kruka koriander
@@ -28,7 +28,7 @@ Genom att rosta ingredienserna först ger en dip som är håller längre och ger
 
 # Tags
 
-* vegetarian
+* vegetarisk
 * snacks
 
 # Credits
