@@ -20,7 +20,7 @@ salt och peppar
 
 ## Steps
 1. Sätt ugnen på 175 grader.
-1. Hacka salladslöken och salami. Fördela i muffinsformar.
+1. Hacka löken och salami. Fördela i muffinsformar.
 1. Vispa ihop ägg, pesto och ost. Krydda och häll i formarna.
 1. Grädda i 15–20 minuter beroende på storlek.
 
