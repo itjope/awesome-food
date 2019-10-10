@@ -16,8 +16,6 @@ Praktiska matmuffins att fixa dagen innan för dig som inte hinner äta frukost 
 100 g riven ost
 salt och peppar
 
---->
-
 ## Steps
 1. Sätt ugnen på 175 grader.
 1. Hacka löken och salami. Fördela i muffinsformar.
