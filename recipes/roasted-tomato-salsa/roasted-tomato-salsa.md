@@ -28,7 +28,7 @@ Genom att rosta ingredienserna först ger en dip som är håller längre och ger
 
 # Tags
 
-* vegetarian
+* vegetarisk
 * snacks
 
 # Credits
