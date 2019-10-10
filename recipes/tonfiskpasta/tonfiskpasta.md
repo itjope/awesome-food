@@ -2,7 +2,7 @@
 <!--- This is how your .md files should look like --->
 
 <!--- Title, Name of the recipe --->
-#Tonfiskpasta
+# Tonfiskpasta
 
 
 <!--- Optional : Picture of the end result of the recipe --->
@@ -57,12 +57,7 @@ Enkelt men uppskattat av hela familjen.
   7. Blanda i crème fraiche, med tonfisken och löken
   8. När pastan har kokat färdig och tonfiskröran är färdigblandad. Servera då tonfiskröran och pastan med tomaterna
   ## Tags
-  <!--- Optional tags to users to search for --->
-  <!---
-
-  * Vegetarian
-  * Snacks
-
-  --->
+  * fisk
+  
   ## Credits
 <!--- Optional credits --->
