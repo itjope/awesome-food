@@ -1,4 +1,4 @@
-# Matmuffins
+# Fish and chips
 
 <!--- Example [Roasted Tomatosalsa](loc/of/file/in/repo.jpg) --->
 
