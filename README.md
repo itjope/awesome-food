@@ -9,3 +9,4 @@
 * [North Texas Chili](recipes/north-texas-chili/north-texas-chili.md)
 * [Matmuffins](recipes/mat-muffins/mat-muffins.md)
 * [Tonfiskpasta](recipes/tonfiskpasta/tonfiskpasta.md)
+* [Sauerkraut](recipes/sauerkraut/sauerkraut.md)
