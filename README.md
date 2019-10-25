@@ -11,3 +11,4 @@
 * [Tonfiskpasta](recipes/tonfiskpasta/tonfiskpasta.md)
 * [Sauerkraut](recipes/sauerkraut/sauerkraut.md)
 * [Kalops](recipes/kalops/recipe.md)
+* [Falafel](recipes/falafel/recipe.md)
